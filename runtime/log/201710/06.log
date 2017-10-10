@@ -1,0 +1,1333 @@
+[ 2017-10-06T23:17:38+08:00 ] 172.17.202.123 106.11.156.175 GET /content.html?id=555254568066&u=
+[ log ] zukmb.cn/content.html?id=555254568066&u= [运行时间：0.626108s][吞吐率：1.60req/s] [内存消耗：2,263.79kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'YisouSpider',
+)
+[ info ] [ PARAM ] array (
+  'id' => '555254568066',
+  'u' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:17:39+08:00 ] 172.17.202.123 106.11.155.187 GET /content.html?id=536884831421&u=
+[ log ] zukmb.cn/content.html?id=536884831421&u= [运行时间：0.502630s][吞吐率：1.99req/s] [内存消耗：2,222.98kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'YisouSpider',
+)
+[ info ] [ PARAM ] array (
+  'id' => '536884831421',
+  'u' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-10-06T23:23:18+08:00 ] 172.17.202.123 106.11.159.163 GET /content.html?id=548295566411&u=
+[ log ] zukmb.cn/content.html?id=548295566411&u= [运行时间：0.601439s][吞吐率：1.66req/s] [内存消耗：2,263.62kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'YisouSpider',
+)
+[ info ] [ PARAM ] array (
+  'id' => '548295566411',
+  'u' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:23:19+08:00 ] 172.17.202.123 106.11.152.177 GET /content.html?id=539341103364&u=
+[ log ] zukmb.cn/content.html?id=539341103364&u= [运行时间：0.528175s][吞吐率：1.89req/s] [内存消耗：2,222.98kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'YisouSpider',
+)
+[ info ] [ PARAM ] array (
+  'id' => '539341103364',
+  'u' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-10-06T23:31:58+08:00 ] 172.17.202.123 106.11.159.163 GET /content.html?id=546494334651&u=
+[ log ] zukmb.cn/content.html?id=546494334651&u= [运行时间：0.476370s][吞吐率：2.10req/s] [内存消耗：2,223.10kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'YisouSpider',
+)
+[ info ] [ PARAM ] array (
+  'id' => '546494334651',
+  'u' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-10-06T23:36:20+08:00 ] 172.17.202.123 106.11.159.163 GET /content.html?id=534153333806&u=
+[ log ] zukmb.cn/content.html?id=534153333806&u= [运行时间：0.668218s][吞吐率：1.50req/s] [内存消耗：2,263.85kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'YisouSpider',
+)
+[ info ] [ PARAM ] array (
+  'id' => '534153333806',
+  'u' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:36:21+08:00 ] 172.17.202.123 106.11.152.177 GET /content.html?id=22240023313&u=
+[ log ] zukmb.cn/content.html?id=22240023313&u= [运行时间：0.465532s][吞吐率：2.15req/s] [内存消耗：2,223.62kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'YisouSpider',
+)
+[ info ] [ PARAM ] array (
+  'id' => '22240023313',
+  'u' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-10-06T23:36:22+08:00 ] 172.17.202.123 106.11.156.175 GET /content.html?id=540916554177&u=
+[ log ] zukmb.cn/content.html?id=540916554177&u= [运行时间：1.713335s][吞吐率：0.58req/s] [内存消耗：2,263.38kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'YisouSpider',
+)
+[ info ] [ PARAM ] array (
+  'id' => '540916554177',
+  'u' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:40:01+08:00 ] 172.17.202.123 106.11.159.163 GET /content.html?id=553042604519&u=
+[ log ] zukmb.cn/content.html?id=553042604519&u= [运行时间：0.640916s][吞吐率：1.56req/s] [内存消耗：2,263.82kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'YisouSpider',
+)
+[ info ] [ PARAM ] array (
+  'id' => '553042604519',
+  'u' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:40:36+08:00 ] 172.17.202.123 123.125.71.98 GET /content.html?u=&id=543020391888
+[ log ] zukmb.cn/content.html?u=&id=543020391888 [运行时间：0.479897s][吞吐率：2.08req/s] [内存消耗：2,850.00kb] [文件加载：62]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '543020391888',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:41:56+08:00 ] 172.17.202.123 203.208.60.207 GET /content.html?u=&id=546425308175
+[ log ] zukmb.cn/content.html?u=&id=546425308175 [运行时间：0.793387s][吞吐率：1.26req/s] [内存消耗：2,263.73kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'Keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '546425308175',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:42:08+08:00 ] 172.17.202.123 203.208.60.206 GET /content.html?u=&id=534776150263
+[ log ] zukmb.cn/content.html?u=&id=534776150263 [运行时间：0.785804s][吞吐率：1.27req/s] [内存消耗：2,263.89kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'Keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '534776150263',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:42:20+08:00 ] 172.17.202.123 203.208.60.203 GET /content.html?u=&id=539619517632
+[ log ] zukmb.cn/content.html?u=&id=539619517632 [运行时间：0.858453s][吞吐率：1.16req/s] [内存消耗：2,264.14kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'Keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '539619517632',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:42:32+08:00 ] 172.17.202.123 203.208.60.203 GET /content.html?u=&id=557553011816
+[ log ] zukmb.cn/content.html?u=&id=557553011816 [运行时间：0.808074s][吞吐率：1.24req/s] [内存消耗：2,264.27kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'Keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '557553011816',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:42:44+08:00 ] 172.17.202.123 203.208.60.204 GET /content.html?u=&id=558331655287
+[ log ] zukmb.cn/content.html?u=&id=558331655287 [运行时间：0.860872s][吞吐率：1.16req/s] [内存消耗：2,263.56kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'Keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '558331655287',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:42:55+08:00 ] 172.17.202.123 203.208.60.206 GET /content.html?u=&id=547832797688
+[ log ] zukmb.cn/content.html?u=&id=547832797688 [运行时间：0.781188s][吞吐率：1.28req/s] [内存消耗：2,264.08kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'Keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '547832797688',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:43:08+08:00 ] 172.17.202.123 203.208.60.207 GET /content.html?u=&id=551097998785
+[ log ] zukmb.cn/content.html?u=&id=551097998785 [运行时间：0.899997s][吞吐率：1.11req/s] [内存消耗：2,263.65kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'Keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '551097998785',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:43:19+08:00 ] 172.17.202.123 203.208.60.204 GET /content.html?u=&id=540276669992
+[ log ] zukmb.cn/content.html?u=&id=540276669992 [运行时间：0.773415s][吞吐率：1.29req/s] [内存消耗：2,263.88kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'Keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '540276669992',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:43:32+08:00 ] 172.17.202.123 203.208.60.204 GET /content.html?u=&id=556914536746
+[ log ] zukmb.cn/content.html?u=&id=556914536746 [运行时间：0.852418s][吞吐率：1.17req/s] [内存消耗：2,263.73kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'Keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '556914536746',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:43:44+08:00 ] 172.17.202.123 203.208.60.207 GET /content.html?u=&id=524873203455
+[ log ] zukmb.cn/content.html?u=&id=524873203455 [运行时间：0.912644s][吞吐率：1.10req/s] [内存消耗：2,263.73kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'Keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '524873203455',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:43:56+08:00 ] 172.17.202.123 203.208.60.204 GET /content.html?u=&id=542820523251
+[ log ] zukmb.cn/content.html?u=&id=542820523251 [运行时间：0.773212s][吞吐率：1.29req/s] [内存消耗：2,263.65kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'Keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '542820523251',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:44:08+08:00 ] 172.17.202.123 203.208.60.206 GET /content.html?u=&id=548464514675
+[ log ] zukmb.cn/content.html?u=&id=548464514675 [运行时间：0.775272s][吞吐率：1.29req/s] [内存消耗：2,264.23kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'Keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '548464514675',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:45:59+08:00 ] 172.17.202.123 106.11.159.163 GET /content.html?id=543365682989
+[ log ] zukmb.cn/content.html?id=543365682989 [运行时间：0.628645s][吞吐率：1.59req/s] [内存消耗：2,263.96kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'YisouSpider',
+)
+[ info ] [ PARAM ] array (
+  'id' => '543365682989',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:46:01+08:00 ] 172.17.202.123 106.11.152.177 GET /content.html?id=548609202253&u=
+[ log ] zukmb.cn/content.html?id=548609202253&u= [运行时间：2.721058s][吞吐率：0.37req/s] [内存消耗：2,263.85kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'YisouSpider',
+)
+[ info ] [ PARAM ] array (
+  'id' => '548609202253',
+  'u' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:47:50+08:00 ] 172.17.202.123 203.208.60.204 GET /content.html?u=&id=551179123727
+[ log ] zukmb.cn/content.html?u=&id=551179123727 [运行时间：0.773812s][吞吐率：1.29req/s] [内存消耗：2,263.80kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'Keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '551179123727',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:50:19+08:00 ] 172.17.202.123 106.11.159.163 GET /content.html?id=556709648449&u=
+[ log ] zukmb.cn/content.html?id=556709648449&u= [运行时间：0.473092s][吞吐率：2.11req/s] [内存消耗：2,223.38kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'YisouSpider',
+)
+[ info ] [ PARAM ] array (
+  'id' => '556709648449',
+  'u' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-10-06T23:50:20+08:00 ] 172.17.202.123 106.11.152.177 GET /content.html?id=554882912053&u=
+[ log ] zukmb.cn/content.html?id=554882912053&u= [运行时间：1.422755s][吞吐率：0.70req/s] [内存消耗：2,263.85kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'YisouSpider',
+)
+[ info ] [ PARAM ] array (
+  'id' => '554882912053',
+  'u' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:50:22+08:00 ] 172.17.202.123 106.11.156.175 GET /content.html?id=552438830098&u=
+[ log ] zukmb.cn/content.html?id=552438830098&u= [运行时间：2.821204s][吞吐率：0.35req/s] [内存消耗：2,263.79kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'YisouSpider',
+)
+[ info ] [ PARAM ] array (
+  'id' => '552438830098',
+  'u' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:51:37+08:00 ] 172.17.202.123 203.208.60.206 GET /content.html?u=&id=555646673069
+[ log ] zukmb.cn/content.html?u=&id=555646673069 [运行时间：0.775221s][吞吐率：1.29req/s] [内存消耗：2,263.94kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'Keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '555646673069',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:53:19+08:00 ] 172.17.202.123 203.208.60.205 GET /content.html?u=&id=556478956207
+[ log ] zukmb.cn/content.html?u=&id=556478956207 [运行时间：0.456845s][吞吐率：2.19req/s] [内存消耗：2,223.86kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'Keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '556478956207',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-10-06T23:53:39+08:00 ] 172.17.202.123 106.11.155.187 GET /content.html?id=541133076474&u=
+[ log ] zukmb.cn/content.html?id=541133076474&u= [运行时间：0.637219s][吞吐率：1.57req/s] [内存消耗：2,263.41kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'YisouSpider',
+)
+[ info ] [ PARAM ] array (
+  'id' => '541133076474',
+  'u' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:53:42+08:00 ] 172.17.202.123 106.11.159.163 GET /content.html?id=537891862454&u=
+[ log ] zukmb.cn/content.html?id=537891862454&u= [运行时间：0.880447s][吞吐率：1.14req/s] [内存消耗：2,223.34kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'YisouSpider',
+)
+[ info ] [ PARAM ] array (
+  'id' => '537891862454',
+  'u' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-10-06T23:53:44+08:00 ] 172.17.202.123 106.11.158.186 GET /content.html?id=534771534867&u=
+[ log ] zukmb.cn/content.html?id=534771534867&u= [运行时间：3.049499s][吞吐率：0.33req/s] [内存消耗：2,263.85kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'YisouSpider',
+)
+[ info ] [ PARAM ] array (
+  'id' => '534771534867',
+  'u' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:53:44+08:00 ] 172.17.202.123 106.11.157.187 GET /content.html?id=45458325915&u=
+[ log ] zukmb.cn/content.html?id=45458325915&u= [运行时间：4.502139s][吞吐率：0.22req/s] [内存消耗：2,263.63kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'YisouSpider',
+)
+[ info ] [ PARAM ] array (
+  'id' => '45458325915',
+  'u' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:54:06+08:00 ] 172.17.202.123 203.208.60.204 GET /content.html?u=&id=545661240727
+[ log ] zukmb.cn/content.html?u=&id=545661240727 [运行时间：0.464407s][吞吐率：2.15req/s] [内存消耗：2,224.05kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'Keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '545661240727',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-10-06T23:55:07+08:00 ] 172.17.202.123 203.208.60.203 GET /content.html?u=&id=537058832176
+[ log ] zukmb.cn/content.html?u=&id=537058832176 [运行时间：0.458751s][吞吐率：2.18req/s] [内存消耗：2,223.42kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'Keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '537058832176',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-10-06T23:55:24+08:00 ] 172.17.202.123 203.208.60.205 GET /content.html?u=&id=557841393552
+[ log ] zukmb.cn/content.html?u=&id=557841393552 [运行时间：0.855780s][吞吐率：1.17req/s] [内存消耗：2,263.88kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'Keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '557841393552',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:55:31+08:00 ] 172.17.202.123 203.208.60.207 GET /content.html?u=&id=545922596382
+[ log ] zukmb.cn/content.html?u=&id=545922596382 [运行时间：0.459881s][吞吐率：2.17req/s] [内存消耗：2,223.63kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'Keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '545922596382',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-10-06T23:56:15+08:00 ] 172.17.202.123 203.208.60.205 GET /content.html?u=&id=555776391302
+[ log ] zukmb.cn/content.html?u=&id=555776391302 [运行时间：0.815052s][吞吐率：1.23req/s] [内存消耗：2,263.91kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'Keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '555776391302',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:56:59+08:00 ] 172.17.202.123 106.11.152.177 GET /content.html?id=547019806163&u=
+[ log ] zukmb.cn/content.html?id=547019806163&u= [运行时间：0.646312s][吞吐率：1.55req/s] [内存消耗：2,263.65kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'YisouSpider',
+)
+[ info ] [ PARAM ] array (
+  'id' => '547019806163',
+  'u' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:57:01+08:00 ] 172.17.202.123 106.11.155.187 GET /content.html?id=545699329824&u=
+[ log ] zukmb.cn/content.html?id=545699329824&u= [运行时间：0.777834s][吞吐率：1.29req/s] [内存消耗：2,223.60kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'YisouSpider',
+)
+[ info ] [ PARAM ] array (
+  'id' => '545699329824',
+  'u' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-10-06T23:57:02+08:00 ] 172.17.202.123 106.11.156.175 GET /content.html?id=540329828252&u=
+[ log ] zukmb.cn/content.html?id=540329828252&u= [运行时间：2.944681s][吞吐率：0.34req/s] [内存消耗：2,263.87kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'YisouSpider',
+)
+[ info ] [ PARAM ] array (
+  'id' => '540329828252',
+  'u' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------
+[ 2017-10-06T23:59:11+08:00 ] 172.17.202.123 203.208.60.205 GET /content.html?u=&id=528451217166
+[ log ] zukmb.cn/content.html?u=&id=528451217166 [运行时间：0.792624s][吞吐率：1.26req/s] [内存消耗：2,264.41kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'Keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '528451217166',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:83]
+
+---------------------------------------------------------------

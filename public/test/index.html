@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=no">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+</head>
+
+<body>
+
+  <audio src="./audi.mp3" hidden="true" autoplay="true" id="audio"></audio>
+
+  <script>
+
+    
+
+    function audioAutoPlay(id){
+        var audio = document.getElementById(id);
+		audio.addEventListener("canplay", function () {
+            audio.play();
+        }, false);
+		
+        // audio.play();
+        
+		document.addEventListener("WeixinJSBridgeReady", function () {
+            audio.play();
+        }, false);
+    }
+    window.onload = function () {
+	audioAutoPlay('audio');
+	}
+    
+  </script>
+</body>
+
+</html>

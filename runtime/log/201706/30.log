@@ -1,0 +1,2874 @@
+[ 2017-06-30T22:14:18+08:00 ] 172.17.202.123 171.35.51.57 POST /search
+[ log ] zukmb.cn/search [运行时间：0.589110s][吞吐率：1.70req/s] [内存消耗：3,052.76kb] [文件加载：62]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'dtk',
+    2 => 'search',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'origin' => 'http://zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_2 like Mac OS X) AppleWebKit/603.2.4 (KHTML, like Gecko) Mobile/14F89 MicroMessenger/6.5.9 NetType/WIFI Language/zh_CN',
+  'connection' => 'keep-alive',
+  'referer' => 'http://zukmb.cn/search.html?u=&kw=%E5%AE%89%E8%B8%8F',
+  'content-length' => '54',
+  'cookie' => 'amvid=005f200b2176645d062aab033d050be3',
+)
+[ info ] [ PARAM ] array (
+  'r' => 'index/ajaxSearch',
+  'page' => '2',
+  'kw' => '安踏',
+  'px' => 't',
+)
+[ info ] [ RUN ] app\index\controller\Dtk->search[ /usr/local/www/tbk/application/index/controller/Dtk.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: HTTP_X_FORWARDED_FOR[/usr/local/www/tbk/extend/libs/HttpHelper.php:391]
+[ error ] [8]未定义数组索引: HTTP_CLIENT_IP[/usr/local/www/tbk/extend/libs/HttpHelper.php:393]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 36[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 36[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 36[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 39[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 39[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 39[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 42[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 42[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 42[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 45[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 45[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 45[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 52[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 52[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 55[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 55[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 68[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 68[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 71[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 71[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 84[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 84[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 87[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 87[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 100[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 100[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 103[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 103[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 116[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 116[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 119[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 119[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 36[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 36[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 36[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 39[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 39[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 39[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 42[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 42[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 42[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 45[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 45[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 45[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 52[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 52[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 55[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 55[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 68[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 68[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 71[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 71[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 84[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 84[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 87[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 87[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 100[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 100[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 103[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 103[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 116[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 116[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 119[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 119[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+
+---------------------------------------------------------------
+[ 2017-06-30T22:14:19+08:00 ] 172.17.202.123 171.35.51.57 POST /search
+[ log ] zukmb.cn/search [运行时间：0.322472s][吞吐率：3.10req/s] [内存消耗：3,052.80kb] [文件加载：62]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'dtk',
+    2 => 'search',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'origin' => 'http://zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_2 like Mac OS X) AppleWebKit/603.2.4 (KHTML, like Gecko) Mobile/14F89 MicroMessenger/6.5.9 NetType/WIFI Language/zh_CN',
+  'connection' => 'keep-alive',
+  'referer' => 'http://zukmb.cn/search.html?u=&kw=%E5%AE%89%E8%B8%8F',
+  'content-length' => '54',
+  'cookie' => 'amvid=005f200b2176645d062aab033d050be3',
+)
+[ info ] [ PARAM ] array (
+  'r' => 'index/ajaxSearch',
+  'page' => '2',
+  'kw' => '安踏',
+  'px' => 't',
+)
+[ info ] [ RUN ] app\index\controller\Dtk->search[ /usr/local/www/tbk/application/index/controller/Dtk.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: HTTP_X_FORWARDED_FOR[/usr/local/www/tbk/extend/libs/HttpHelper.php:391]
+[ error ] [8]未定义数组索引: HTTP_CLIENT_IP[/usr/local/www/tbk/extend/libs/HttpHelper.php:393]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 36[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 36[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 36[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 39[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 39[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 39[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 42[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 42[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 42[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 45[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 45[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 45[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 52[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 52[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 55[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 55[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 68[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 68[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 71[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 71[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 84[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 84[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 87[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 87[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 100[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 100[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 103[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 103[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 116[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 116[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 119[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 119[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 36[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 36[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 36[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 39[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 39[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 39[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 42[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 42[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 42[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 45[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 45[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 45[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 52[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 52[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 55[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 55[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 68[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 68[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 71[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 71[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 84[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 84[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 87[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 87[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 100[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 100[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 103[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 103[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 116[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 116[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 119[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 119[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+
+---------------------------------------------------------------
+[ 2017-06-30T22:14:20+08:00 ] 172.17.202.123 171.35.51.57 GET /content.html?id=2819323
+[ log ] zukmb.cn/content.html?id=2819323 [运行时间：0.659211s][吞吐率：1.52req/s] [内存消耗：2,213.89kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'cookie' => 'amvid=005f200b2176645d062aab033d050be3',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_2 like Mac OS X) AppleWebKit/603.2.4 (KHTML, like Gecko) Mobile/14F89 MicroMessenger/6.5.9 NetType/WIFI Language/zh_CN',
+  'referer' => 'http://zukmb.cn/search.html?u=&kw=%E5%AE%89%E8%B8%8F',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2819323',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:14:20+08:00 ] 172.17.202.123 171.35.51.57 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016836s][吞吐率：59.40req/s] [内存消耗：1,824.42kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'accept' => 'image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5',
+  'connection' => 'keep-alive',
+  'cookie' => 'amvid=005f200b2176645d062aab033d050be3',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_2 like Mac OS X) AppleWebKit/603.2.4 (KHTML, like Gecko) Mobile/14F89 MicroMessenger/6.5.9 NetType/WIFI Language/zh_CN',
+  'accept-language' => 'zh-cn',
+  'referer' => 'http://zukmb.cn/content.html?id=2819323',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:14:22+08:00 ] 172.17.202.123 101.226.33.225 GET /search.html?u=&kw=%E5%AE%89%E8%B8%8F
+[ log ] zukmb.cn/search.html?u=&kw=%E5%AE%89%E8%B8%8F [运行时间：0.569946s][吞吐率：1.75req/s] [内存消耗：3,054.35kb] [文件加载：62]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'dtk',
+    2 => 'search',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36 MicroMessenger/6.5.2.501 NetType/WIFI WindowsWechat QBCore/3.43.27.400 QQBrowser/9.0.2524.400',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'host' => 'zukmb.cn',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'kw' => '安踏',
+)
+[ info ] [ RUN ] app\index\controller\Dtk->search[ /usr/local/www/tbk/application/index/controller/Dtk.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: HTTP_REFERER[/usr/local/www/tbk/extend/libs/HttpHelper.php:53]
+[ error ] [8]未定义数组索引: HTTP_X_FORWARDED_FOR[/usr/local/www/tbk/extend/libs/HttpHelper.php:391]
+[ error ] [8]未定义数组索引: HTTP_CLIENT_IP[/usr/local/www/tbk/extend/libs/HttpHelper.php:393]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 36[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 36[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 36[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 39[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 39[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 39[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 42[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 42[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 42[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 45[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 45[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 45[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 52[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 52[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 55[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 55[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 68[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 68[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 71[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 71[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 84[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 84[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 87[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 87[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 100[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 100[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 103[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 103[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 116[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 116[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 119[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 119[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 36[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 36[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 36[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 39[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 39[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 39[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 42[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 42[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 42[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 45[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 45[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 45[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 52[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 52[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 55[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 55[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 68[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 68[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 71[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 71[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 84[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 84[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 87[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 87[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 100[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 100[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 103[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 103[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 116[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 116[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 119[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+[ error ] [2]DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 119[/usr/local/www/tbk/vendor/electrolinux/phpquery/phpQuery/phpQuery/DOMDocumentWrapper.php:200]
+
+---------------------------------------------------------------
+[ 2017-06-30T22:14:30+08:00 ] 172.17.202.123 101.226.85.67 GET /content.html?id=2819323
+[ log ] zukmb.cn/content.html?id=2819323 [运行时间：1.364029s][吞吐率：0.73req/s] [内存消耗：2,213.17kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML, like Gecko) Mobile/14D27 MicroMessenger/6.5.5 NetType/WIFI Language/zh_CN',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'host' => 'zukmb.cn',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2819323',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:14:30+08:00 ] 172.17.202.123 101.226.99.195 GET /content.html?id=2819323
+[ log ] zukmb.cn/content.html?id=2819323 [运行时间：1.598012s][吞吐率：0.63req/s] [内存消耗：2,213.66kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.4.4; Coolpad Y82-520 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36 MicroMessenger/6.5.4.1000 NetType/4G Language/zh_CN',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'host' => 'zukmb.cn',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2819323',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:14:31+08:00 ] 172.17.202.123 101.226.68.213 GET /content.html?id=2819323
+[ log ] zukmb.cn/content.html?id=2819323 [运行时间：1.879808s][吞吐率：0.53req/s] [内存消耗：2,213.70kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.4.4; HUAWEI ALE-CL00 Build/HuaweiALE-CL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043024 Safari/537.36 MicroMessenger/6.5.4.1000 NetType/4G Language/zh_CN',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'host' => 'zukmb.cn',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2819323',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:14:40+08:00 ] 172.17.202.123 171.35.51.57 GET /
+[ log ] zukmb.cn/ [运行时间：0.546826s][吞吐率：1.83req/s] [内存消耗：3,315.35kb] [文件加载：64]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'amvid=3e19adcc2388050a55d695a5a20c22f5',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_2 like Mac OS X) AppleWebKit/603.2.4 (KHTML, like Gecko) Mobile/14F89 MicroMessenger/6.5.9 NetType/WIFI Language/zh_CN',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../thems/default/index/index.html [ array (
+  0 => 'banner',
+  1 => 'total',
+  2 => 'result',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:14:40+08:00 ] 172.17.202.123 171.35.51.57 GET /images/rolling.gif
+[ log ] zukmb.cn/images/rolling.gif [运行时间：0.016553s][吞吐率：60.41req/s] [内存消耗：1,824.22kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'images',
+    1 => 'rolling.gif',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'accept' => 'image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5',
+  'connection' => 'keep-alive',
+  'cookie' => 'amvid=3e19adcc2388050a55d695a5a20c22f5',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_2 like Mac OS X) AppleWebKit/603.2.4 (KHTML, like Gecko) Mobile/14F89 MicroMessenger/6.5.9 NetType/WIFI Language/zh_CN',
+  'accept-language' => 'zh-cn',
+  'referer' => 'http://zukmb.cn/',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:14:45+08:00 ] 172.17.202.123 171.35.51.57 GET /content.html?u=&id=520382977653
+[ log ] zukmb.cn/content.html?u=&id=520382977653 [运行时间：0.616620s][吞吐率：1.62req/s] [内存消耗：2,213.98kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'cookie' => 'amvid=3e19adcc2388050a55d695a5a20c22f5',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_2 like Mac OS X) AppleWebKit/603.2.4 (KHTML, like Gecko) Mobile/14F89 MicroMessenger/6.5.9 NetType/WIFI Language/zh_CN',
+  'referer' => 'http://zukmb.cn/',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '520382977653',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:14:45+08:00 ] 172.17.202.123 171.35.51.57 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016333s][吞吐率：61.23req/s] [内存消耗：1,824.44kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'accept' => 'image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5',
+  'connection' => 'keep-alive',
+  'cookie' => 'amvid=3e19adcc2388050a55d695a5a20c22f5',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_2 like Mac OS X) AppleWebKit/603.2.4 (KHTML, like Gecko) Mobile/14F89 MicroMessenger/6.5.9 NetType/WIFI Language/zh_CN',
+  'accept-language' => 'zh-cn',
+  'referer' => 'http://zukmb.cn/content.html?u=&id=520382977653',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:15:17+08:00 ] 172.17.202.123 171.35.51.57 GET /showtkl.html?gid=550316410050
+[ log ] zukmb.cn/showtkl.html?gid=550316410050 [运行时间：0.769073s][吞吐率：1.30req/s] [内存消耗：2,166.52kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'show_tkl',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'amvid=ca7bff40b5b682379199b74a934e2c97',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_2 like Mac OS X) AppleWebKit/603.2.4 (KHTML, like Gecko) Mobile/14F89 MicroMessenger/6.5.9 NetType/WIFI Language/zh_CN',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'gid' => '550316410050',
+)
+[ info ] [ RUN ] app\index\controller\Index->show_tkl[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Trying to get property of non-object[/usr/local/www/tbk/application/index/controller/Index.php:111]
+
+---------------------------------------------------------------
+[ 2017-06-30T22:15:27+08:00 ] 172.17.202.123 101.226.66.192 GET /showtkl.html?gid=550316410050
+[ log ] zukmb.cn/showtkl.html?gid=550316410050 [运行时间：0.913179s][吞吐率：1.10req/s] [内存消耗：2,166.26kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'show_tkl',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; OPPO R9s Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile MQQBrowser/6.9 TBS/036906 Safari/537.36 MicroMessenger/6.5.4.1000 NetType/4G Language/zh_CN',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'host' => 'zukmb.cn',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'gid' => '550316410050',
+)
+[ info ] [ RUN ] app\index\controller\Index->show_tkl[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Trying to get property of non-object[/usr/local/www/tbk/application/index/controller/Index.php:111]
+
+---------------------------------------------------------------
+[ 2017-06-30T22:26:31+08:00 ] 172.17.202.123 106.11.152.143 GET /content.html?id=550846970503&u=
+[ log ] zukmb.cn/content.html?id=550846970503&u= [运行时间：0.623614s][吞吐率：1.60req/s] [内存消耗：2,212.83kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'YisouSpider',
+)
+[ info ] [ PARAM ] array (
+  'id' => '550846970503',
+  'u' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:36:32+08:00 ] 172.17.202.123 220.181.108.107 GET /content.html?u=&id=548943520625
+[ log ] zukmb.cn/content.html?u=&id=548943520625 [运行时间：1.266729s][吞吐率：0.79req/s] [内存消耗：2,213.48kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '548943520625',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:36:33+08:00 ] 172.17.202.123 123.125.71.41 GET /content.html?u=&id=531922080205
+[ log ] zukmb.cn/content.html?u=&id=531922080205 [运行时间：1.273307s][吞吐率：0.79req/s] [内存消耗：2,213.09kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '531922080205',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:36:47+08:00 ] 172.17.202.123 123.125.71.30 GET /content.html?u=&id=39518917908
+[ log ] zukmb.cn/content.html?u=&id=39518917908 [运行时间：0.991901s][吞吐率：1.01req/s] [内存消耗：2,836.98kb] [文件加载：62]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '39518917908',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:81]
+
+---------------------------------------------------------------
+[ 2017-06-30T22:36:47+08:00 ] 172.17.202.123 123.125.71.81 GET /content.html?u=&id=45808935979
+[ log ] zukmb.cn/content.html?u=&id=45808935979 [运行时间：1.334303s][吞吐率：0.75req/s] [内存消耗：2,213.55kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '45808935979',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:36:51+08:00 ] 172.17.202.123 111.206.221.32 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016811s][吞吐率：59.48req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => '56fb9f61-1d3a-4115-b98a-cf705d5fbaa4',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:37:00+08:00 ] 172.17.202.123 111.206.221.76 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016702s][吞吐率：59.87req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => 'f0d30aa6-6be8-427a-855b-15e6f75448c9',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:37:01+08:00 ] 172.17.202.123 123.125.71.39 GET /content.html?u=&id=547490948700
+[ log ] zukmb.cn/content.html?u=&id=547490948700 [运行时间：0.988822s][吞吐率：1.01req/s] [内存消耗：2,213.05kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '547490948700',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:37:02+08:00 ] 172.17.202.123 123.125.71.58 GET /content.html?u=&id=544631184419
+[ log ] zukmb.cn/content.html?u=&id=544631184419 [运行时间：1.324143s][吞吐率：0.76req/s] [内存消耗：2,213.12kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '544631184419',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:37:15+08:00 ] 172.17.202.123 111.206.221.22 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016587s][吞吐率：60.29req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => '57ce77c2-acb6-4fc0-af1b-88b36c21a6df',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:37:16+08:00 ] 172.17.202.123 220.181.108.168 GET /content.html?u=&id=551011722689
+[ log ] zukmb.cn/content.html?u=&id=551011722689 [运行时间：0.968417s][吞吐率：1.03req/s] [内存消耗：2,213.61kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '551011722689',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:37:17+08:00 ] 172.17.202.123 123.125.71.80 GET /content.html?u=&id=548136278564
+[ log ] zukmb.cn/content.html?u=&id=548136278564 [运行时间：1.311743s][吞吐率：0.76req/s] [内存消耗：2,213.16kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '548136278564',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:37:26+08:00 ] 172.17.202.123 111.206.221.24 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016588s][吞吐率：60.28req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => 'aa6efe88-3e8b-44a3-bd45-a8ca56b39c93',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:37:26+08:00 ] 172.17.202.123 111.206.221.51 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016430s][吞吐率：60.86req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => '9d48ffd0-972e-4c37-ab70-84b650ddd0a8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:37:31+08:00 ] 172.17.202.123 123.125.71.72 GET /content.html?u=&id=550656869947
+[ log ] zukmb.cn/content.html?u=&id=550656869947 [运行时间：0.952036s][吞吐率：1.05req/s] [内存消耗：2,213.72kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '550656869947',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:37:31+08:00 ] 172.17.202.123 123.125.71.106 GET /content.html?u=&id=521236665758
+[ log ] zukmb.cn/content.html?u=&id=521236665758 [运行时间：1.275098s][吞吐率：0.78req/s] [内存消耗：2,213.04kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '521236665758',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:37:45+08:00 ] 172.17.202.123 220.181.108.155 GET /content.html?u=&id=553923247188
+[ log ] zukmb.cn/content.html?u=&id=553923247188 [运行时间：1.001542s][吞吐率：1.00req/s] [内存消耗：2,213.39kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '553923247188',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:37:46+08:00 ] 172.17.202.123 123.125.71.100 GET /content.html?u=&id=551842273630
+[ log ] zukmb.cn/content.html?u=&id=551842273630 [运行时间：1.330562s][吞吐率：0.75req/s] [内存消耗：2,213.66kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '551842273630',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:37:49+08:00 ] 172.17.202.123 111.206.221.83 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016535s][吞吐率：60.48req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => 'f4b9ecf2-cc57-4425-9cd3-fed76f9f5b64',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:38:00+08:00 ] 172.17.202.123 220.181.108.183 GET /content.html?u=&id=532928269284
+[ log ] zukmb.cn/content.html?u=&id=532928269284 [运行时间：0.628964s][吞吐率：1.59req/s] [内存消耗：2,213.27kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '532928269284',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:38:12+08:00 ] 172.17.202.123 111.206.221.22 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016717s][吞吐率：59.82req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => '00155af2-4356-4fda-b1bf-a439c9ca1681',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:38:19+08:00 ] 172.17.202.123 111.206.221.44 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016658s][吞吐率：60.03req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => '39921c1b-10bc-4c1c-86c8-f7619c0eba62',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:39:31+08:00 ] 172.17.202.123 66.249.66.193 GET /content.html?u=&id=552223553595
+[ log ] zukmb.cn/content.html?u=&id=552223553595 [运行时间：0.626900s][吞吐率：1.60req/s] [内存消耗：2,213.38kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'Keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '552223553595',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:40:30+08:00 ] 172.17.202.123 106.11.152.143 GET /cat.html?cid=2
+[ log ] zukmb.cn/cat.html?cid=2 [运行时间：0.409297s][吞吐率：2.44req/s] [内存消耗：2,990.55kb] [文件加载：62]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'dtk',
+    2 => 'cat',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'YisouSpider',
+)
+[ info ] [ PARAM ] array (
+  'cid' => '2',
+)
+[ info ] [ RUN ] app\index\controller\Dtk->cat[ /usr/local/www/tbk/application/index/controller/Dtk.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: HTTP_REFERER[/usr/local/www/tbk/extend/libs/HttpHelper.php:53]
+[ error ] [8]未定义数组索引: HTTP_X_FORWARDED_FOR[/usr/local/www/tbk/extend/libs/HttpHelper.php:391]
+[ error ] [8]未定义数组索引: HTTP_CLIENT_IP[/usr/local/www/tbk/extend/libs/HttpHelper.php:393]
+
+---------------------------------------------------------------
+[ 2017-06-30T22:41:40+08:00 ] 172.17.202.123 123.125.71.114 GET /content.html?u=&id=36686980570
+[ log ] zukmb.cn/content.html?u=&id=36686980570 [运行时间：0.658632s][吞吐率：1.52req/s] [内存消耗：2,213.22kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '36686980570',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:42:03+08:00 ] 172.17.202.123 111.206.221.49 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016940s][吞吐率：59.03req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => '2501b485-e1b3-4c23-9792-8008ae1e2a49',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:45:20+08:00 ] 172.17.202.123 123.125.71.70 GET /content.html?u=&id=549492040148
+[ log ] zukmb.cn/content.html?u=&id=549492040148 [运行时间：0.630038s][吞吐率：1.59req/s] [内存消耗：2,213.86kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '549492040148',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:45:34+08:00 ] 172.17.202.123 111.206.221.43 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016443s][吞吐率：60.82req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => 'ad8fb1f3-b5a1-4d5c-82e9-8bf19f241c84',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:49:00+08:00 ] 172.17.202.123 220.181.108.101 GET /content.html?u=&id=528620246594
+[ log ] zukmb.cn/content.html?u=&id=528620246594 [运行时间：0.655737s][吞吐率：1.53req/s] [内存消耗：2,213.39kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '528620246594',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:49:15+08:00 ] 172.17.202.123 111.206.221.35 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016333s][吞吐率：61.23req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => 'dca7ba3c-94f5-438f-a9fe-e736737e12dd',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:52:39+08:00 ] 172.17.202.123 220.181.108.161 GET /content.html?u=&id=549371203254
+[ log ] zukmb.cn/content.html?u=&id=549371203254 [运行时间：0.605356s][吞吐率：1.65req/s] [内存消耗：2,213.39kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '549371203254',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:56:19+08:00 ] 172.17.202.123 123.125.71.31 GET /content.html?u=&id=551628844046
+[ log ] zukmb.cn/content.html?u=&id=551628844046 [运行时间：0.638756s][吞吐率：1.57req/s] [内存消耗：2,213.47kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '551628844046',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:56:30+08:00 ] 172.17.202.123 111.206.221.39 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016566s][吞吐率：60.37req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => '6b68edb3-ee35-4717-889e-0500a2777d21',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T22:59:59+08:00 ] 172.17.202.123 220.181.108.141 GET /content.html?u=&id=552487700465
+[ log ] zukmb.cn/content.html?u=&id=552487700465 [运行时间：0.654738s][吞吐率：1.53req/s] [内存消耗：2,213.26kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '552487700465',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:00:09+08:00 ] 172.17.202.123 111.206.221.44 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016345s][吞吐率：61.18req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => '07da36cf-459a-44d1-91b0-c205c30e5feb',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:03:39+08:00 ] 172.17.202.123 123.125.71.91 GET /content.html?u=&id=548148137743
+[ log ] zukmb.cn/content.html?u=&id=548148137743 [运行时间：0.680498s][吞吐率：1.47req/s] [内存消耗：2,213.52kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '548148137743',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:03:51+08:00 ] 172.17.202.123 111.206.221.29 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016722s][吞吐率：59.80req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => '6690f4b1-aaae-48b7-8862-849018c69192',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:07:19+08:00 ] 172.17.202.123 220.181.108.185 GET /content.html?u=&id=549745415878
+[ log ] zukmb.cn/content.html?u=&id=549745415878 [运行时间：0.643578s][吞吐率：1.55req/s] [内存消耗：2,213.67kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '549745415878',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:07:35+08:00 ] 172.17.202.123 111.206.221.90 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016422s][吞吐率：60.89req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => '81db0976-5bfa-423e-bdea-f4ca80da01b3',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:10:59+08:00 ] 172.17.202.123 220.181.108.95 GET /content.html?u=&id=537790766292
+[ log ] zukmb.cn/content.html?u=&id=537790766292 [运行时间：0.618505s][吞吐率：1.62req/s] [内存消耗：2,213.47kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '537790766292',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:11:12+08:00 ] 172.17.202.123 111.206.221.95 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016420s][吞吐率：60.90req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => '535d9905-2281-4f54-9485-1b620b06c887',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:14:39+08:00 ] 172.17.202.123 123.125.71.109 GET /content.html?u=&id=550509099946
+[ log ] zukmb.cn/content.html?u=&id=550509099946 [运行时间：0.601409s][吞吐率：1.66req/s] [内存消耗：2,213.67kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '550509099946',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:14:55+08:00 ] 172.17.202.123 111.206.221.32 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016668s][吞吐率：59.99req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => 'f35dcd3a-f3eb-404b-8207-9117593a726f',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:17:57+08:00 ] 172.17.202.123 202.108.211.56 GET /
+[ log ] www.zukmb.cn/ [运行时间：0.546371s][吞吐率：1.83req/s] [内存消耗：3,315.38kb] [文件加载：64]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.21 (KHTML, like Gecko) Chrome/19.0.1042.0 Safari/535.21',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'upgrade-insecure-requests' => '1',
+  'host' => 'www.zukmb.cn',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../thems/default/index/index.html [ array (
+  0 => 'banner',
+  1 => 'total',
+  2 => 'result',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:18:19+08:00 ] 172.17.202.123 220.181.108.112 GET /content.html?u=&id=24408656292
+[ log ] zukmb.cn/content.html?u=&id=24408656292 [运行时间：0.640908s][吞吐率：1.56req/s] [内存消耗：2,213.24kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '24408656292',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:18:33+08:00 ] 172.17.202.123 111.206.221.43 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016359s][吞吐率：61.13req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => 'bb632215-6c9e-4bbe-8def-315045a1f091',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:21:59+08:00 ] 172.17.202.123 123.125.71.44 GET /content.html?u=&id=45577850767
+[ log ] zukmb.cn/content.html?u=&id=45577850767 [运行时间：0.646465s][吞吐率：1.55req/s] [内存消耗：2,213.55kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '45577850767',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:22:05+08:00 ] 172.17.202.123 111.206.221.48 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016859s][吞吐率：59.32req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => '3ca62d30-d629-48b6-9942-dc7f00bcc5a4',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:25:39+08:00 ] 172.17.202.123 220.181.108.99 GET /content.html?u=&id=550868886053
+[ log ] zukmb.cn/content.html?u=&id=550868886053 [运行时间：0.685539s][吞吐率：1.46req/s] [内存消耗：2,213.54kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '550868886053',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:25:57+08:00 ] 172.17.202.123 111.206.221.73 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.018696s][吞吐率：53.49req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => '161e6669-a9d2-4889-9b0b-fc3f365f6797',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:29:19+08:00 ] 172.17.202.123 220.181.108.141 GET /content.html?u=&id=549082164480
+[ log ] zukmb.cn/content.html?u=&id=549082164480 [运行时间：0.615126s][吞吐率：1.63req/s] [内存消耗：2,213.09kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '549082164480',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:29:29+08:00 ] 172.17.202.123 111.206.221.41 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016323s][吞吐率：61.26req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => '71753c7a-f4a3-4ee4-8a4a-1b4595eaa979',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:32:59+08:00 ] 172.17.202.123 220.181.108.177 GET /content.html?u=&id=37194075264
+[ log ] zukmb.cn/content.html?u=&id=37194075264 [运行时间：0.658213s][吞吐率：1.52req/s] [内存消耗：2,212.92kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '37194075264',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:33:09+08:00 ] 172.17.202.123 111.206.221.41 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016601s][吞吐率：60.24req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => '20c2510d-3985-41fe-99ab-50b43eef75f4',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:36:39+08:00 ] 172.17.202.123 123.125.71.48 GET /content.html?u=&id=545769740402
+[ log ] zukmb.cn/content.html?u=&id=545769740402 [运行时间：0.634234s][吞吐率：1.58req/s] [内存消耗：2,213.14kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '545769740402',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:36:51+08:00 ] 172.17.202.123 111.206.221.32 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.018368s][吞吐率：54.44req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => '9f9ec6a6-c820-4e08-b135-104d7084c558',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:40:19+08:00 ] 172.17.202.123 123.125.71.105 GET /content.html?u=&id=548422987825
+[ log ] zukmb.cn/content.html?u=&id=548422987825 [运行时间：0.616675s][吞吐率：1.62req/s] [内存消耗：2,213.56kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '548422987825',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:40:32+08:00 ] 172.17.202.123 111.206.221.48 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016530s][吞吐率：60.50req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => 'bd0a2dae-7cf9-40cc-af66-2058b878b079',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:43:58+08:00 ] 172.17.202.123 123.125.71.98 GET /content.html?u=&id=549130558322
+[ log ] zukmb.cn/content.html?u=&id=549130558322 [运行时间：0.632772s][吞吐率：1.58req/s] [内存消耗：2,213.52kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '549130558322',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:44:07+08:00 ] 172.17.202.123 111.206.221.67 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016536s][吞吐率：60.47req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => '7f1ae001-9851-4bda-89db-3442961f29e0',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:47:38+08:00 ] 172.17.202.123 123.125.71.47 GET /content.html?u=&id=537670375676
+[ log ] zukmb.cn/content.html?u=&id=537670375676 [运行时间：0.645279s][吞吐率：1.55req/s] [内存消耗：2,213.55kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '537670375676',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:47:57+08:00 ] 172.17.202.123 111.206.221.99 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016495s][吞吐率：60.62req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => '93f443af-eab7-4ac9-aba0-499343446075',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:51:18+08:00 ] 172.17.202.123 123.125.71.43 GET /content.html?u=&id=540115473693
+[ log ] zukmb.cn/content.html?u=&id=540115473693 [运行时间：0.666263s][吞吐率：1.50req/s] [内存消耗：2,213.70kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '540115473693',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:51:40+08:00 ] 172.17.202.123 111.206.221.39 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016654s][吞吐率：60.05req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => '29ac3f08-cb0f-4d19-b3ab-6e6189bbfec9',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:52:31+08:00 ] 172.17.202.123 106.11.158.155 GET /content.html?id=551619951225&u=
+[ log ] zukmb.cn/content.html?id=551619951225&u= [运行时间：0.684303s][吞吐率：1.46req/s] [内存消耗：2,213.35kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:2.0b13pre) Gecko/20110307 Firefox/4.0b13pre',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'id' => '551619951225',
+  'u' => '',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:54:58+08:00 ] 172.17.202.123 123.125.71.89 GET /content.html?u=&id=537368183155
+[ log ] zukmb.cn/content.html?u=&id=537368183155 [运行时间：0.679390s][吞吐率：1.47req/s] [内存消耗：2,213.43kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '537368183155',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:55:09+08:00 ] 172.17.202.123 111.206.221.71 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016595s][吞吐率：60.26req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => '4cfa6ce8-2e5a-4838-b59b-6afb9587b06f',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:55:21+08:00 ] 172.17.202.123 203.208.60.205 GET /content.html?u=&id=528324846868
+[ log ] zukmb.cn/content.html?u=&id=528324846868 [运行时间：0.912940s][吞吐率：1.10req/s] [内存消耗：2,253.87kb] [文件加载：63]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'Keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'from' => 'googlebot(at)googlebot.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+  'accept-encoding' => 'gzip,deflate,br',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '528324846868',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$model[/usr/local/www/tbk/application/index/controller/Index.php:81]
+
+---------------------------------------------------------------
+[ 2017-06-30T23:56:31+08:00 ] 172.17.202.123 106.11.154.135 GET /classify.aspx?cid=8&u=
+[ log ] zukmb.cn/classify.aspx?cid=8&u= [运行时间：0.028329s][吞吐率：35.30req/s] [内存消耗：1,823.88kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'classify.aspx',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'YisouSpider',
+)
+[ info ] [ PARAM ] array (
+  'cid' => '8',
+  'u' => '',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:56:31+08:00 ] 172.17.202.123 106.11.152.143 GET /hot.html?u=
+[ log ] www.zukmb.cn/hot.html?u= [运行时间：0.226209s][吞吐率：4.42req/s] [内存消耗：2,990.55kb] [文件加载：62]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'dtk',
+    2 => 'hot',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-cn,en-us,zh-tw,en-gb,en;',
+  'host' => 'www.zukmb.cn',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'connection' => 'Keep-Alive',
+  'user-agent' => 'YisouSpider',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+)
+[ info ] [ RUN ] app\index\controller\Dtk->hot[ /usr/local/www/tbk/application/index/controller/Dtk.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: HTTP_REFERER[/usr/local/www/tbk/extend/libs/HttpHelper.php:53]
+[ error ] [8]未定义数组索引: HTTP_X_FORWARDED_FOR[/usr/local/www/tbk/extend/libs/HttpHelper.php:391]
+[ error ] [8]未定义数组索引: HTTP_CLIENT_IP[/usr/local/www/tbk/extend/libs/HttpHelper.php:393]
+
+---------------------------------------------------------------
+[ 2017-06-30T23:58:38+08:00 ] 172.17.202.123 123.125.71.105 GET /content.html?u=&id=540264126374
+[ log ] zukmb.cn/content.html?u=&id=540264126374 [运行时间：0.629315s][吞吐率：1.59req/s] [内存消耗：2,213.20kb] [文件加载：59]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'content',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-cn,zh-tw',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+  'u' => '',
+  'id' => '540264126374',
+)
+[ info ] [ RUN ] app\index\controller\Index->content[ /usr/local/www/tbk/application/index/controller/Index.php ]
+[ info ] [ VIEW ] ../thems/default/index/content.html [ array (
+  0 => 'list',
+  1 => 'detail',
+  2 => 'tkl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-06-30T23:58:56+08:00 ] 172.17.202.123 111.206.221.87 GET /default/static/images/goods_num.png
+[ log ] zukmb.cn/default/static/images/goods_num.png [运行时间：0.016658s][吞吐率：60.03req/s] [内存消耗：1,824.38kb] [文件加载：47]
+[ info ] [ LANG ] /usr/local/www/tbk/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'default',
+    1 => 'static',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'zukmb.cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)',
+  'proxy-connection' => 'keep-alive',
+  'x-devtools-emulate-network-conditions-client-id' => '6aecea87-7a07-47e7-86b6-a711bdb1cf2e',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'resource-type' => '4',
+  'accept' => 'image/webp,image/*,*/*;q=0.8',
+  'referer' => 'http://zukmb.cn/default/static/css/wapshow.css?v=201704271010',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------

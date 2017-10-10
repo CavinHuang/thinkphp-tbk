@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=no">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>送给尚明珠同学的fāfā</title>
+
+  <link rel="stylesheet" href="css/reset.css">
+
+    <link rel="stylesheet" href="css/style.css" media="screen" type="text/css" />
+
+</head>
+
+<body>
+<div style="text-align:center;clear:both;height: 100%;width: 100%" class="start-page">
+  <h2 class="title">送给尚明珠同学的fāfā</h2>
+  <div class="avater" style="position: absolute;left: 5px; top: 50%;margin-top: -40px;"><img src="nan.jpg" alt=""></div>
+  <div class="heart-shape"></div> 
+  <div class="btn">轻触打开小fāfā</div>
+  <div class="avater" style="position: absolute;right: 5px; top: 50%;margin-top: -40px;"><img src="nv.jpg" alt=""></div>
+</div>
+<div id="showWords" style="position: absolute; top: 50px; right: 60px;"><a href="JavaScript:;">小留言</a></div>
+  <canvas id="canvas"></canvas>
+  <div class="somewords" style="display: none">
+    <p>从未想过会通过这样的方式认识这样的你，我本是一个笨拙的人，不懂如何去靠近旁人，但与你却从来不用考虑这些，就像多年的朋友，虽然略显生涩，但是却已经足够了。
+    
+    <p>慢慢的已经习惯了你的存在，如果突然某天，了无音讯，应该会心急如焚吧-_-……
+
+    <p>哈哈哈哈</p>
+    <p>tips: 点击空白处会出现新的小fāfā 哦~~~~~，每次进来fāfā都不一样哦~~~</p>
+  </div>
+  <audio src="./audi.mp3" hidden="true" autoplay="true" id="audio"></audio>
+  <script src="js/index.js"></script>
+  <script>
+
+    (function () {
+      var heart = document.querySelector('.heart-shape');
+      var page = document.querySelector('.start-page')
+      heart.onclick = function () {
+        page.style.display = 'none'
+      }
+
+      var btn = document.querySelector('#showWords')
+      var somewords = document.querySelector('.somewords')
+      btn.onclick = function () {
+        if(somewords.style.display == 'block'){
+          somewords.style.display = 'none'
+          btn.innerText = '查看小留言'
+        }else{
+          somewords.style.display = 'block'
+          btn.innerText = '关闭留言'
+
+        }
+      }
+
+    })()
+
+    function audioAutoPlay(id){
+        var audio = document.getElementById(id);
+        audio.play();
+        document.addEventListener("WeixinJSBridgeReady", function () {
+            audio.play();
+        }, false);
+    }
+    audioAutoPlay('audio');
+    function showtext(){
+      var box = document.getElementById('textbox')
+      var text = document.getElementById('text')
+
+      var h = 58
+
+      var t = text.offsetTop
+      var height = text.offsetHeight
+
+      if(t < -height){
+        t = 0
+      }
+
+      text.style.top = t - h +'px'
+    }
+
+  </script>
+</body>
+
+</html>
